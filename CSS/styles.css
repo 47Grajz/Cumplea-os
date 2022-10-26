@@ -28,13 +28,13 @@ body, html, .container, .row{
 div.col-lg-4
 {
     border: 10px solid transparent;
-    border-image: linear-gradient(to bottom, #1e1e96, #223946) 1;
+    border-image: linear-gradient(to bottom, #4a0072, #7b1fa2) 1;
 }
 
 button.btn-success
 {
     margin: 10px 0px;
-    background-image: linear-gradient(to bottom, #1e1e96, #223946);
+    background-image: linear-gradient(to bottom,#4a0072, #7b1fa2);
     border: 0;
 }
 
@@ -49,14 +49,14 @@ div.form-group{
 */
 
 .col-lg-7 .card-header, .card-footer{
-    background-image: linear-gradient(to right, #1e1e96, #223946);
+    background-image: linear-gradient(to right,#4a0072, #7b1fa2);
     color: white;
     font-weight: 700;
 }
 
 .card-body
 {
-    background-image: url('https://image.freepik.com/vector-gratis/vector-feliz-cumpleanos-plano-patron-inconsutil-textura_51635-1153.jpg');
+    background-image: url('https://w0.peakpx.com/wallpaper/48/566/HD-wallpaper-vintage-abej-beograd-black-dark-happy-birtay-love.jpg');
 }
 
 .card-content
@@ -71,15 +71,15 @@ div.form-group{
 .card-content img
 {
     border-radius: 100%;
-    width: 150px;
-    height: 150px;
+    width: 120px;
+    height: 120px;
     margin: 0px auto 25px auto;
 }
 
 .card-title
 {
     font-weight: 700;
-    background: linear-gradient(to bottom,#1e1e96, #223946);
+    background: linear-gradient(to bottom,#4a0072, #7b1fa2);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     color: tomato;
